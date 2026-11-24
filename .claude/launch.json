@@ -1,0 +1,1 @@
+﻿{ "version": "0.0.1", "configurations": [ { "name": "skyforge", "runtimeExecutable": "powershell.exe", "runtimeArgs": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "tools/serve.ps1"], "port": 8765 } ] }
